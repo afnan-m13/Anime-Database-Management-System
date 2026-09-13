@@ -1,8 +1,8 @@
-<img width="1282" height="455" alt="EER DIAGRAM updated" src="https://github.com/user-attachments/assets/ce411ea6-e045-4ef8-bede-d532343d530c" /># 🎬 Anime Database Management System
+# 🎬 Anime Database Management System
 
-A comprehensive database solution designed for anime production companies to efficiently track projects, departments, staff members, production tasks, contracts, and viewer reviews[cite: 1]. 
+A comprehensive database solution designed for anime production companies to efficiently track projects, departments, staff members, production tasks, contracts, and viewer reviews. 
 
-This project was developed for the **CS2071: Database Systems** course at the **College of Engineering** (Spring 2024) under the supervision of **Dr. Zain Balfagih**[cite: 1].
+This project was developed for the **CS2071: Database Systems** course at the **College of Engineering** (Spring 2024) under the supervision of **Dr. Zain Balfagih**.
 
 ---
 
@@ -57,11 +57,10 @@ The Relational Schema illustrates the normalized relational structure, foreign k
 ## 👥 Authors & Contributors
 
 This project was created by:
-- **Jana Mufti** (S21106991)[cite: 1]
-- **Afnan Kamel** (S22208066)[cite: 1]
-- **Aya Mohammed** (S21207588)[cite: 1]
-- **Afrah Bashaddadah** (S22107697)[cite: 1]
+- **Jana Mufti** (S21106991)
+- **Afnan Kamel** (S22208066)
+- **Aya Mohammed** (S21207588)
+- **Afrah Bashaddadah** (S22107697)
 
-**Section:** 3[cite: 1]  
-**Supervised by:** Dr. Zain Balfagih[cite: 1]  
-**Institution:** College of Engineering — Spring 2024[cite: 1]
+**Supervised by:** Dr. Zain Balfagih  
+
