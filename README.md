@@ -2,8 +2,6 @@
 
 A comprehensive database solution designed for anime production companies to efficiently track projects, departments, staff members, production tasks, contracts, and viewer reviews.
 
-This project was developed for the **CS2071: Database Systems** course at the **College of Engineering** (Spring 2024) under the supervision of **Dr. Zain Balfagih**.
-
 ---
 
 ## 📌 Project Overview
