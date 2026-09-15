@@ -49,7 +49,7 @@ The Relational Schema illustrates the normalized relational structure, foreign k
 
 ---
 
-## 👥 Authors & Contributors
+## 👥 Team
 
 This project was created by:
 - **Jana Mufti** (S21106991)
